@@ -15,6 +15,9 @@ redir-port: 7892
 # 允许局域网的连接（可用来共享代理）
 allow-lan: true
 
+# ipv6
+ipv6: true
+
 # 仅在将allow-lan设置为true时适用
 # #"*": 绑定所有IP地址
 # #192.168.122.11: 绑定单个IPv4地址
